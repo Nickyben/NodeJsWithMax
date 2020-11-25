@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-complete-guide",
+  "version": "1.0.0",
+  "description": "Learning node.js from scratch with Max from udemy. May contain multiple projects or folders.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "nodemon app.js"
+  },
+  "keywords": [
+    "node.js",
+    "express.js",
+    "sql",
+    "mongoDb",
+    "graphql",
+    "mvc",
+    "nodemon",
+    "mongoose"
+  ],
+  "author": "Nicholas Ikechukwu",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
