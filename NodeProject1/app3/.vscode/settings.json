@@ -1,0 +1,14 @@
+{
+  "cSpell.ignoreWords": [
+    "templating",
+    "udemy"
+  ],
+  "html.format.indentHandlebars": true,
+  "html.format.indentInnerHtml": true,
+  "html.format.wrapAttributes": "force-aligned",
+  "editor.defaultFormatter": "HookyQR.beautify",
+  "editor.formatOnType": true,
+  "editor.formatOnPaste": true,
+
+  
+}
