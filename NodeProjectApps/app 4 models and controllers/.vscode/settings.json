@@ -1,0 +1,20 @@
+{
+	"cSpell.ignoreWords": ["templating", "udemy"],
+	"html.format.indentInnerHtml": true,
+	"html.format.wrapAttributes": "force-aligned",
+
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	// "editor.defaultFormatter": "HookyQR.beautify",
+	"editor.formatOnType": true,
+	"editor.formatOnPaste": true,
+	"[handlebars]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
+	"html.format.indentHandlebars": true,
+	"[javascript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	}
+}
