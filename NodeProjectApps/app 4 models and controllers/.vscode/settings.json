@@ -16,5 +16,6 @@
 	"html.format.indentHandlebars": true,
 	"[javascript]": {
 		"editor.defaultFormatter": "vscode.typescript-language-features"
-	}
+	},
+	"terminal.integrated.fontSize": 10
 }
