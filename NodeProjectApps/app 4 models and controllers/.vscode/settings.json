@@ -7,6 +7,9 @@
 	"[javascript]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
+	"emmet.includeLanguages": {
+		"ejs": "html"
+	},
 	// "editor.defaultFormatter": "HookyQR.beautify",
 	"editor.formatOnType": true,
 	"editor.formatOnPaste": true,
@@ -14,8 +17,11 @@
 		"editor.defaultFormatter": "vscode.html-language-features"
 	},
 	"html.format.indentHandlebars": true,
-	"[javascript]": {
-		"editor.defaultFormatter": "vscode.typescript-language-features"
-	},
-	"terminal.integrated.fontSize": 10
+	// "[javascript]": {
+	// 	"editor.defaultFormatter": "vscode.typescript-language-features"
+	// },
+	"terminal.integrated.fontSize": 10,
+	"files.associations": {
+		"*.ejs": "html"
+	}
 }

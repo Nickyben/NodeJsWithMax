@@ -1,0 +1,17 @@
+{
+  "cSpell.ignoreWords": [
+    "templating",
+    "udemy"
+  ],
+  "html.format.indentInnerHtml": true,
+  "html.format.wrapAttributes": "force-aligned",
+  "editor.defaultFormatter": "HookyQR.beautify",
+  "editor.formatOnType": true,
+  "editor.formatOnPaste": true,
+  "[handlebars]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "html.format.indentHandlebars": true,
+
+  
+}
